@@ -54,9 +54,3 @@ Welcome to the VWAP and EMA-based Crypto Trading Bot repository! This bot combin
 ## Contribution
 Contributions, improvements, and bug fixes are welcome! Feel free to open pull requests.
 
-## License
-This project is licensed under the MIT License.
-
----
-
-_By using this trading bot, you acknowledge that you understand the risks associated with trading cryptocurrencies and agree to the terms outlined in the Disclaimer section above._
